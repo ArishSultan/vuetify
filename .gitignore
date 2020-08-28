@@ -1,6 +1,5 @@
 .DS_Store
 node_modules/
-.env
 
 # IDE user config
 .vscode/
@@ -20,3 +19,4 @@ cypress/screenshots
 cypress/videos
 
 .now
+config.bat
